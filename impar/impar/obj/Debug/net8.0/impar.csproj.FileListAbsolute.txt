@@ -1,0 +1,14 @@
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Ejercicios en clase\impar\impar\bin\Debug\net8.0\impar.exe
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Ejercicios en clase\impar\impar\bin\Debug\net8.0\impar.deps.json
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Ejercicios en clase\impar\impar\bin\Debug\net8.0\impar.runtimeconfig.json
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Ejercicios en clase\impar\impar\bin\Debug\net8.0\impar.dll
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Ejercicios en clase\impar\impar\bin\Debug\net8.0\impar.pdb
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Ejercicios en clase\impar\impar\obj\Debug\net8.0\impar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Ejercicios en clase\impar\impar\obj\Debug\net8.0\impar.AssemblyInfoInputs.cache
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Ejercicios en clase\impar\impar\obj\Debug\net8.0\impar.AssemblyInfo.cs
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Ejercicios en clase\impar\impar\obj\Debug\net8.0\impar.csproj.CoreCompileInputs.cache
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Ejercicios en clase\impar\impar\obj\Debug\net8.0\impar.dll
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Ejercicios en clase\impar\impar\obj\Debug\net8.0\refint\impar.dll
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Ejercicios en clase\impar\impar\obj\Debug\net8.0\impar.pdb
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Ejercicios en clase\impar\impar\obj\Debug\net8.0\impar.genruntimeconfig.cache
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Ejercicios en clase\impar\impar\obj\Debug\net8.0\ref\impar.dll

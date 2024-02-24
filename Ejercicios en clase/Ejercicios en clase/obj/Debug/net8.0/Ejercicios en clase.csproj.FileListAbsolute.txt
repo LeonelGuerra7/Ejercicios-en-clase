@@ -1,0 +1,14 @@
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Ejercicios en clase\Ejercicios en clase\Ejercicios en clase\bin\Debug\net8.0\Ejercicios en clase.exe
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Ejercicios en clase\Ejercicios en clase\Ejercicios en clase\bin\Debug\net8.0\Ejercicios en clase.deps.json
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Ejercicios en clase\Ejercicios en clase\Ejercicios en clase\bin\Debug\net8.0\Ejercicios en clase.runtimeconfig.json
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Ejercicios en clase\Ejercicios en clase\Ejercicios en clase\bin\Debug\net8.0\Ejercicios en clase.dll
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Ejercicios en clase\Ejercicios en clase\Ejercicios en clase\bin\Debug\net8.0\Ejercicios en clase.pdb
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Ejercicios en clase\Ejercicios en clase\Ejercicios en clase\obj\Debug\net8.0\Ejercicios en clase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Ejercicios en clase\Ejercicios en clase\Ejercicios en clase\obj\Debug\net8.0\Ejercicios en clase.AssemblyInfoInputs.cache
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Ejercicios en clase\Ejercicios en clase\Ejercicios en clase\obj\Debug\net8.0\Ejercicios en clase.AssemblyInfo.cs
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Ejercicios en clase\Ejercicios en clase\Ejercicios en clase\obj\Debug\net8.0\Ejercicios en clase.csproj.CoreCompileInputs.cache
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Ejercicios en clase\Ejercicios en clase\Ejercicios en clase\obj\Debug\net8.0\Ejercicios en clase.dll
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Ejercicios en clase\Ejercicios en clase\Ejercicios en clase\obj\Debug\net8.0\refint\Ejercicios en clase.dll
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Ejercicios en clase\Ejercicios en clase\Ejercicios en clase\obj\Debug\net8.0\Ejercicios en clase.pdb
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Ejercicios en clase\Ejercicios en clase\Ejercicios en clase\obj\Debug\net8.0\Ejercicios en clase.genruntimeconfig.cache
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Ejercicios en clase\Ejercicios en clase\Ejercicios en clase\obj\Debug\net8.0\ref\Ejercicios en clase.dll
